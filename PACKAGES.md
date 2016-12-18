@@ -8,7 +8,7 @@
 
 # State management
 
-- [vuex](https://github.com/vuejs/vuex/), vue:2.0, links:[doc](http://vuex.vuejs.org/), badge:official, status:stable
+- [vuex](https://github.com/vuejs/vuex/), vue:1.0|2.0, links:[doc](http://vuex.vuejs.org/), badge:official, status:stable
 
 # Ui Components
 
