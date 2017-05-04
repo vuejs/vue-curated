@@ -13,7 +13,12 @@
 # Ui Components
 
 - [v-tooltip](https://github.com/Akryum/vue-tooltip), vue:2.0, links:[demo](https://akryum.github.io/vue-tooltip/), status:dev
+- [vue-multiselect](https://github.com/monterail/vue-multiselect), vue:1.0|2.0, links:[doc](http://monterail.github.io/vue-multiselect/#sub-getting-started)|[demo](http://monterail.github.io/vue-multiselect/), status:stable
 
 # Data
 
 - [vue-apollo](https://github.com/Akryum/vue-apollo/), vue:1.0|2.0, links:[howto](https://dev-blog.apollodata.com/use-apollo-in-your-vuejs-app-89812429d8b2#.jg2dyy30l)|[example](https://github.com/Akryum/frontpage-vue-app), status:dev
+
+# Validation
+
+- [vuelidate](https://github.com/monterail/vuelidate), vue:2.0, links:[doc](https://monterail.github.io/vuelidate/#getting-started)|[demo](https://monterail.github.io/vuelidate/?ref=multiselect), status:dev
