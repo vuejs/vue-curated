@@ -22,3 +22,7 @@
 # Validation
 
 - [vuelidate](https://github.com/monterail/vuelidate), vue:2.0, links:[doc](https://monterail.github.io/vuelidate/#getting-started)|[demo](https://monterail.github.io/vuelidate/?ref=multiselect), status:dev
+
+# Internationalization
+
+- [vue-i18n](https://github.com/kazupon/vue-i18n), vue:2.0, links:[doc](https://kazupon.github.io/vue-i18n/), status:stable
