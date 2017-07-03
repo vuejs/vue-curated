@@ -10,6 +10,8 @@ This package list is open to contribution! :+1:
 
 To contribute, open a PR by [editing the PACKAGES.md file](https://github.com/vuejs/vue-curated/edit/master/PACKAGES.md) and read the following guide.
 
+You can also contribute to the [client app](https://github.com/vuejs/vue-curated-client) and the [graphql server](https://github.com/vuejs/vue-curated-server)!
+
 ## How to add a category
 
 Each category is represented by a level-1 title and contains the packages until the next title. The goal is to have few high-quality choices so that developpers can quickly find the best package for their need.
