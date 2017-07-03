@@ -4,6 +4,12 @@ This repository is the primary data source for the curated app. It has a [client
 
 The list of curated packages are written in the [PACKAGES.md](./PACKAGES.md) markdown file. This file contains the data in a special format design to be still easily readable without parser.
 
+## Contributing
+
+This package list is open to contribution! :+1:
+
+To contribute, open a PR by [editing the PACKAGES.md file](https://github.com/vuejs/vue-curated/edit/master/PACKAGES.md) and read the following guide.
+
 ## How to add a category
 
 Each category is represented by a level-1 title and contains the packages until the next title. The goal is to have few high-quality choices so that developpers can quickly find the best package for their need.
