@@ -42,4 +42,4 @@
 # Ui Frameworks
 
 - [quasar](https://github.com/quasarframework/quasar), vue:2.0, links:[doc](http://quasar-framework.org/guide/), status:stable
-- [element](https://github.com/ElemeFE/element), vue:2.0, lins:[doc](http://element.eleme.io/#/en-US), status:stable
+- [element](https://github.com/ElemeFE/element), vue:2.0, links:[doc](http://element.eleme.io/#/en-US), status:stable
