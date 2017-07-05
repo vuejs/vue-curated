@@ -26,6 +26,7 @@
 # Ui Utilities
 
 - [vuelidate](https://github.com/monterail/vuelidate), vue:2.0, links:[doc](https://monterail.github.io/vuelidate/#getting-started)|[demo](https://monterail.github.io/vuelidate/?ref=multiselect), status:dev
+- [portal-vue](https://github.com/linusborg/portal-vue), vue:2.0, links:[doc](https://linusborg.github.io/portal-vue/#/getting-started), status:stable
 
 # Internationalization
 
