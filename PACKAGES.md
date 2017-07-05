@@ -23,6 +23,7 @@
 - [vue-apollo](https://github.com/Akryum/vue-apollo/), vue:1.0|2.0, links:[howto](https://dev-blog.apollodata.com/use-apollo-in-your-vuejs-app-89812429d8b2#.jg2dyy30l)|[example](https://github.com/Akryum/frontpage-vue-app), status:dev
 - [vuefire](https://github.com/vuejs/vuefire), vue:1.0|2.0, status:stable
 - [vuexfire](https://github.com/posva/vuexfire), vue:2.0, links:[example](https://jsfiddle.net/posva/6w3ks04x/), status:stable
+- [vue-resource](https://github.com/pagekit/vue-resource), vue:1.0|2.0, links:[doc](https://github.com/pagekit/vue-resource/tree/develop/docs), status:stable
 
 # Ui Utilities
 
