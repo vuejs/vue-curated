@@ -23,7 +23,7 @@
 - [vue-apollo](https://github.com/Akryum/vue-apollo/), vue:1.0|2.0, links:[howto](https://dev-blog.apollodata.com/use-apollo-in-your-vuejs-app-89812429d8b2#.jg2dyy30l)|[example](https://github.com/Akryum/frontpage-vue-app), status:dev
 - [vuefire](https://github.com/vuejs/vuefire), vue:1.0|2.0, status:stable
 
-# Validation
+# Ui Utilities
 
 - [vuelidate](https://github.com/monterail/vuelidate), vue:2.0, links:[doc](https://monterail.github.io/vuelidate/#getting-started)|[demo](https://monterail.github.io/vuelidate/?ref=multiselect), status:dev
 
