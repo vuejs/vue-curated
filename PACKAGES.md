@@ -31,7 +31,7 @@
 
 - [vue-i18n](https://github.com/kazupon/vue-i18n), vue:2.0, links:[doc](https://kazupon.github.io/vue-i18n/), status:stable
 
-# Framework Integrations
+# Integrations
 
 - [vue-meteor](https://github.com/Akryum/vue-meteor), vue:1.0|2.0, links:[example](https://github.com/Akryum/vue-meteor-demo), status:dev
 
