@@ -50,3 +50,7 @@
 # Frameworks
 
 - [nuxt](https://github.com/nuxt/nuxt.js), vue:2.0, links:[doc](https://nuxtjs.org/), status:dev
+
+# Testing
+
+- [avoriaz](https://github.com/eddyerburgh/avoriaz), vue:2.0, links:[doc](https://eddyerburgh.gitbooks.io/avoriaz/content/), status:stable
