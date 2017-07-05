@@ -38,3 +38,7 @@
 # Tools
 
 - [vue-cli](https://github.com/vuejs/vue-cli), vue:1.0|2.0, status:stable
+
+# Ui Frameworks
+
+- [quasar](https://github.com/quasarframework/quasar), vue:2.0, links:[doc](http://quasar-framework.org/guide/), status:stable
