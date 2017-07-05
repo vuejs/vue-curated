@@ -37,7 +37,7 @@
 
 # Tools
 
-- [vue-cli](https://github.com/vuejs/vue-cli), vue:1.0|2.0, status:stable
+- [vue-cli](https://github.com/vuejs/vue-cli), vue:1.0|2.0, status:stable, badge:official
 
 # Ui Frameworks
 
