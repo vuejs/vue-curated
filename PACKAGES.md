@@ -39,6 +39,7 @@
 
 - [vue-cli](https://github.com/vuejs/vue-cli), vue:1.0|2.0, status:stable, badge:official
 - [vue-dev-tools](https://github.com/vuejs/vue-devtools), vue:1.0|2.0, links:[install on Chrome](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)|[install on Firefox](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/), status:stable, badge:official
+- [babel-plugin-transform-vue-jsx](https://github.com/vuejs/babel-plugin-transform-vue-jsx), vue:2.0, status:stable, badge:official
 
 # Ui Frameworks
 
