@@ -51,6 +51,7 @@
 - [element](https://github.com/ElemeFE/element), vue:2.0, links:[doc](http://element.eleme.io/#/en-US), status:stable
 - [framework7](https://github.com/nolimits4web/Framework7), vue:2.0, links:[get started](http://framework7.io/get-started/)|[doc](http://framework7.io/docs/), status:stable
 - [onsen-ui](https://github.com/OnsenUI/OnsenUI), vue:2.0, links:[get started](https://onsen.io/v2/guide/vue/)|[doc](https://onsen.io/v2/api/vue/), status:stable
+- [vue-material](https://github.com/vuematerial/vue-material), vue:2.0, links:[doc](http://vuematerial.io/), status:dev
 
 # Frameworks
 
