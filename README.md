@@ -2,9 +2,9 @@
 
 This repository is the primary data source for the curated app. It has a [client](https://github.com/vuejs/vue-curated-client) and a [server](https://github.com/vuejs/vue-curated-server). It is live at [curated.vuejs.org](http://curated.vuejs.org/).
 
-**The goal is to have few high-quality choices so that developpers can quickly find the best package for their need. Only a handful of packages will be accepted for each category.**
+**The goal is to have few high-quality choices so that developers can quickly find the best package for their need. Only a handful of packages will be accepted for each category.**
 
-The list of curated packages are written in the [PACKAGES.md](./PACKAGES.md) markdown file. This file contains the data in a special format design to be still easily readable without parser.
+The list of curated packages are written in the [PACKAGES.md](./PACKAGES.md) markdown file. This file contains the data in a special format designed to be easily readable without a parser.
 
 ## Contributing
 
@@ -26,7 +26,7 @@ Example:
 
 ## How to add a package
 
-A package is a bullet-point line followed by some fields formatted in a particualiar way. It will be [parsed by the vue-curated app](https://github.com/vuejs/vue-curated-server/blob/master/src/utils/parse.js#L17).
+A package is a bullet-point line followed by some fields formatted in a particular way. It will be [parsed by the vue-curated app](https://github.com/vuejs/vue-curated-server/blob/master/src/utils/parse.js#L17).
 
 The row just starts with a link to the package repository, whose label is used as the package name in the app.
 
@@ -52,7 +52,7 @@ The package fields currently supported are: [Source](https://github.com/vuejs/vu
 
 - `vue` (array): list of supported Vue major versions. Recommended values: `1.0`, `2.0`. Example: `vue:1.0|2.0`
 - `links` (array): list of useful links. Example: `links:[doc](https://doc.com/)|[demo](https://demo.com/)`.
-- `status`: developpement status. Values: `dev` or `stable`. Example: `status:stable`.
+- `status`: development status. Values: `dev` or `stable`. Example: `status:stable`.
 - `badge`: special badge. Recommended values: `official`. Example: `badge:official`.
 
 
