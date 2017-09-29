@@ -51,8 +51,8 @@ Most of the users will want to use your package directly, without having to setu
 
 Having tests help make your code more stable and give users more confidence when using it.
 
-- Write at least unit tests
-- It should have a reasonable coverage
+- Write unit tests.
+- It should have a reasonable coverage.
 
 ### Visual Quality
 
@@ -65,7 +65,8 @@ Having good visuals give the viewer good impression of both your package and the
 
 Keeping the repository maintained is also essential for the sustainability of the package and for the user confidence.
 
-- Have active maintainers on the repository
+- Have active maintainers on the repository.
+- Welcome community contributions with a 'Contributing Guidelines' file or section that highlights how one could contribute on the project (running locally, how to write issues and PRs, style conventions...).
 
 ## Adding a new package
 
