@@ -11,3 +11,5 @@ The list of curated packages are written in the [PACKAGES.md](./PACKAGES.md) mar
 This package list is open to contribution! :+1:
 
 See [Contributing Guidelines](CONTRIBUTING.md).
+
+You can also contribute to the [client app](https://github.com/vuejs/vue-curated-client) and the [graphql server](https://github.com/vuejs/vue-curated-server)!
