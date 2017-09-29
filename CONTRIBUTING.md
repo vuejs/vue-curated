@@ -3,6 +3,8 @@
 The main objective of this repository is to setup a **curated** list of packages that might be helpful for developers.
 As such, each package in this list should be high quality and meet a number of requirements.
 
+**You can also contribute to the [client app](https://github.com/vuejs/vue-curated-client) and the [graphql server](https://github.com/vuejs/vue-curated-server)!**
+
 ## Minimal Requirements
 
 ### Find and explain a common use case
@@ -68,8 +70,6 @@ Keeping the repository maintained is also essential for the sustainability of th
 ## Adding a new package
 
 If you are sure the minimal requirements are met, open a PR by [editing the PACKAGES.md file](https://github.com/vuejs/vue-curated/edit/master/PACKAGES.md) and read the following guide.
-
-You can also contribute to the [client app](https://github.com/vuejs/vue-curated-client) and the [graphql server](https://github.com/vuejs/vue-curated-server)!
 
 ## How to add a category
 
