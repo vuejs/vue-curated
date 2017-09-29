@@ -39,7 +39,7 @@ Most of the users will want to use your package directly, without having to setu
 *In rollup, use the `umd` format.*
 *Put the path to this file in the `main` field in `package.json`.*
 
-- You can also compile to an ES module that can be consumed by webpack 2+ to take advantage to tree shaking.
+- You can also compile to an ES module that can be consumed by webpack 2+ to take advantage of tree shaking.
 *In rollup, use the `es` format.*
 *Put the path to this file in the `module` field in `package.json`.*
 
