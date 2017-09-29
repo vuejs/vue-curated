@@ -71,7 +71,7 @@ Keeping the repository maintained is also essential for the sustainability of th
 
 If you are sure the minimal requirements are met, open a PR by [editing the PACKAGES.md file](https://github.com/vuejs/vue-curated/edit/master/PACKAGES.md) and read the following guide.
 
-## How to add a category
+### How to add a category
 
 Each category is represented by a level-1 title and contains the packages until the next title.
 
@@ -81,7 +81,7 @@ Example:
 # Category label
 ```
 
-## How to add a package
+### How to add a package
 
 A package is a bullet-point line followed by some fields formatted in a particular way. It will be [parsed by the vue-curated app](https://github.com/vuejs/vue-curated-server/blob/master/src/utils/parse.js#L17).
 
@@ -103,7 +103,7 @@ Example:
 array_field:value1|value2|value3
 ```
 
-### Supported fields
+#### Supported fields
 
 The package fields currently supported are: [Source](https://github.com/vuejs/vue-curated-server/blob/master/src/providers/github.js#L28)
 
@@ -113,7 +113,7 @@ The package fields currently supported are: [Source](https://github.com/vuejs/vu
 - `badge`: special badge. Recommended values: `official`. Example: `badge:official`.
 
 
-## Example
+### Example
 
 ```markdown
 # Core
