@@ -4,8 +4,6 @@ This repository is the primary data source for the curated app. It has a [client
 
 **The goal is to have few high-quality choices so that developers can quickly find the best package for their need. Only a handful of packages will be accepted for each category.**
 
-The list of curated packages are written in the [PACKAGES.md](./PACKAGES.md) markdown file. This file contains the data in a special format designed to be easily readable without a parser.
-
 ## Contributing
 
 This package list is open to contribution! :+1:
