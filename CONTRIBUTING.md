@@ -69,6 +69,8 @@ Keeping the repository maintained is also essential for the sustainability of th
 
 ## Adding a new package
 
+The list of curated packages are written in the [PACKAGES.md](./PACKAGES.md) markdown file. This file contains the data in a special format designed to be easily readable without a parser.
+
 If you are sure the minimal requirements are met, open a PR by [editing the PACKAGES.md file](https://github.com/vuejs/vue-curated/edit/master/PACKAGES.md) and read the following guide.
 
 ### How to add a category
