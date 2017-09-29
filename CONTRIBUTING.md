@@ -9,7 +9,7 @@ As such, each package in this list should be high quality and meet a number of r
 
 ### Find and explain a common use case
 
-The package should solve a reasonably common use case that Vue devlopers might encounter when creating an app.
+The package should solve a reasonably common use case that Vue developers might encounter when creating an app.
 If it is too 'niche', it will won't make into the list.
 
 - In the PR, explain what is the use case solved by your package.
@@ -21,7 +21,7 @@ You need to provide a demo showcasing the package so it can easily be tested by 
 - Add a link to a demo project repository that shows the package in action.
 - It should be a focused demo on this specific package (don't use one demo for multiple packages).
 - If possible, you should also add a link to a live demo that can be played in the browser.
-- Get a core Vue member/contributor to test the demo project and verify it is a good solution for the use case. Don't hesitate to ask for advices!
+- Get a core Vue member/contributor to test the demo project and verify it is a good solution for the use case. Don't hesitate to ask for advice!
 
 ### Document the package
 
@@ -29,7 +29,7 @@ Documenation is essential for the user to understand what your package does and 
 
 - The repository should have either a documentation on the `README.md` file or a dedicated website (in this case, provide the link to it).
 - It should be at least available in English.
-- It should have a **complete** API reference (if it makes sens to have one).
+- It should have a **complete** API reference (if it makes sense to have one).
 
 ### Distribution
 
@@ -59,7 +59,7 @@ Having tests help make your code more stable and give users more confidence when
 Having good visuals give the viewer good impression of both your package and the Vue ecosystem.
 
 - If you package is visual (for example a component), it should be reasonably polished and have a nice visual quality.
-- Put a screenshot in the `README.md` file so user will see how it look like at a glance.
+- Put a screenshot in the `README.md` file so user can see how it look like at a glance.
 
 ### Activity
 
