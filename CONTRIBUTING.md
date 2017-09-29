@@ -59,7 +59,7 @@ Having tests help make your code more stable and give users more confidence when
 Having good visuals give the viewer good impression of both your package and the Vue ecosystem.
 
 - If you package is visual (for example a component), it should be reasonably polished and have a nice visual quality.
-- Put a screenshot in the `README.md` file so user can see how it look like at a glance.
+- Put a screenshot in the `README.md` file so user can see how it looks like at a glance.
 
 ### Activity
 
