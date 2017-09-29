@@ -1,4 +1,4 @@
-# Contributing
+# Contributing Guidelines
 
 The main objective of this repository is to setup a **curated** list of packages that might be helpful for developers.
 As such, each package in this list should be high quality and meet a number of requirements.
