@@ -12,7 +12,7 @@
 
 # Ui Components
 
-- [v-tooltip](https://github.com/Akryum/vue-tooltip), vue:2.0, links:[demo](https://akryum.github.io/vue-tooltip/), status:dev
+- [v-tooltip](https://github.com/Akryum/vue-tooltip), vue:2.0, links:[demo](https://akryum.github.io/v-tooltip/), status:dev
 - [vue-multiselect](https://github.com/monterail/vue-multiselect), vue:1.0|2.0, links:[doc](http://monterail.github.io/vue-multiselect/#sub-getting-started)|[demo](http://monterail.github.io/vue-multiselect/), status:stable
 - [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll), vue:2.0, links:[doc](https://github.com/egoist/vue-mugen-scroll)|[demo](https://egoist.moe/vue-mugen-scroll/), status:stable
 - [vue-timeago](https://github.com/egoist/vue-timeago), vue:2.0, links:[doc](https://github.com/egoist/vue-timeago)|[demo](https://egoist.moe/vue-timeago/), status:stable
