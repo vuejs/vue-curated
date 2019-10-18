@@ -2,6 +2,8 @@
 
 Deprecated in favor of [AwesomeJS.dev](https://github.com/Akryum/awesomejs.dev/)
 
+---
+
 
 This repository is the primary data source for the curated app. It has a [client](https://github.com/vuejs/vue-curated-client) and a [server](https://github.com/vuejs/vue-curated-server). It is live at [curated.vuejs.org](http://curated.vuejs.org/).
 
